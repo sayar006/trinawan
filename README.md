@@ -9,9 +9,10 @@ I am a current third-year student majoring in Information Technology Infrastruct
 
 ***Technical Labs and Projects***
 ***AWS, S3, EC2, CloudFront**
-*Deployed a static website using Amazon S3
-*Explored cloud hosting and infrastructure configuration
-*Worked with EC2 and load balancing concepts to understand availability and redundancy
+* Deployed a static website using Amazon S3
+* Explored cloud hosting and infrastructure configuration
+* Worked with EC2 and load balancing concepts to understand availability and redundancy
+
 https://docs.google.com/document/d/1aWSjnKR8nnRtO6XlXXj-bxrDei2Gbia7jSmpamjI1Jg/edit?usp=sharing
 
 
@@ -27,9 +28,9 @@ Expected Graduation: May, 2028
 
 Technology Support Assistant - University of Minnesota
 
-*Assisted students and instructors with computer-related technical issues
-*Helped troubleshoot technology problems and provide technical support
-*Communicated technical information to users with varying levels of experience
+* Assisted students and instructors with computer-related technical issues
+* Helped troubleshoot technology problems and provide technical support
+* Communicated technical information to users with varying levels of experience
 
 Connect with me!
 
