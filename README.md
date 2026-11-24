@@ -9,4 +9,5 @@ I am a current third-year student majoring in Information Technology Infrastruct
 
 ***Technical Labs and Projects***
 * **AWS Labs/Projects**:
+  https://docs.google.com/document/d/1aWSjnKR8nnRtO6XlXXj-bxrDei2Gbia7jSmpamjI1Jg/edit?usp=sharing
   
